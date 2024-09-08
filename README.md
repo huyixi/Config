@@ -2,4 +2,5 @@
 
 - [dotfiles](https://github.com/huyixi/dotfiles)
 - [rime-config](https://github.com/huyixi/rime-config)
-# Config
+- [vscode-config](https://github.com/huyixi/vscode-config)
+- [raycast-config](https://github.com/huyixi/raycast-config)
